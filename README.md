@@ -14,4 +14,5 @@ I build things I need myself — and then make them good enough to share.
 
 **Projects**
 - **[sweep](https://github.com/brix7on/sweep)** — one-shot malware & miner scanner: runs, checks, exits
+- [**gust**](https://github.com/brix7on/gust) — DPI bypass for Discord, YouTube and other services on Windows: no install, picks a working strategy automatically
 - *more on the way / скоро ещё*
